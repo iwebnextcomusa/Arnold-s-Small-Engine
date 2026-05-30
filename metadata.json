@@ -1,0 +1,8 @@
+{
+  "name": "Arnold's Small Engine Repair",
+  "description": "Expert small engine repair and maintenance services in New Braunfels, TX. Reliable tune-ups, carburetor cleaning, and troubleshooting for mowers, generators, chainsaws, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
